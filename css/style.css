@@ -2,4 +2,9 @@
 
 body {
     font-family: 'Cabin', sans-serif;
+    margin: 50px;
+}
+
+p {
+    font-style: italic;
 }
