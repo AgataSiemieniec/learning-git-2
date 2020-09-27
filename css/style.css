@@ -2,10 +2,12 @@
 
 body {
     font-family: 'Cabin', sans-serif;
-    margin: 50px;
+    text-align: center;
+
 }
 
 p {
     font-style: italic;
     color: #ff0000;
+    
 }
