@@ -3,11 +3,13 @@
 body {
     font-family: 'Cabin', sans-serif;
     text-align: center;
+    display: flex;
 
 }
 
 p {
     font-style: italic;
     color: #ff0000;
+    align-items: center;
     
 }
